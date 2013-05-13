@@ -9,7 +9,7 @@ delivered on the server, css, images, js etc.
 
 ## Installation
 
-You need the node package manager installed and you need grunt installed.  Follow [this guide](gruntjs.com/getting-started).  When you run the grunt script
+You need the node package manager installed and you need grunt installed.  Follow [this guide](http://gruntjs.com/getting-started).  When you run the grunt script
 if any dependancies are missing you'd most likely get an error saying 'x cannot be found' to install it's usually something along the lines of `npm install dependancy-name' you'll probably have to sudo it.
 
 ## Usage:
