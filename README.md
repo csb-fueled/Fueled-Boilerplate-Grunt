@@ -10,7 +10,7 @@ delivered on the server, css, images, js etc.
 ## Installation
 
 You need the node package manager installed and you need grunt installed.  Follow [this guide](http://gruntjs.com/getting-started).  When you run the grunt script
-if any dependancies are missing you'd most likely get an error saying 'x cannot be found' to install it's usually something along the lines of `npm install dependancy-name' you'll probably have to sudo it.
+if any dependencies are missing you'd most likely get an error saying 'x cannot be found' to install it's usually something along the lines of `npm install dependency-name' you'll probably have to sudo it.
 
 ## Usage:
 
@@ -26,4 +26,5 @@ Change directory into your project and run `grunt watch`.
 When you're done on a project or ready to move it to a staging server you can easily create a production ready version.  Just run `grunt build` this will
 move everything to a /build folder keeping the same directory structure but optimising images, svgs, minifying JS etc and just containing the files that 
 should go to the server.
+
 
